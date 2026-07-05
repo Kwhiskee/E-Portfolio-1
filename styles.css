@@ -36,6 +36,11 @@ li {
 
 /* NAVIGATION BAR */
 
+.text--purple {
+    color: #6030b1;
+}
+
+
 nav {
     height: 100px;
     width: 100%;
